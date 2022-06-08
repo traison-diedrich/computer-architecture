@@ -1,3 +1,3 @@
-These files were created as projects for Computer Architecture.
+These files were created as projects for a Computer Architecture course
 
-Running them requires the use of an external piece of software called PC SPIM
+Running them requires the use of an external piece of software, PC SPIM
